@@ -1,5 +1,4 @@
 # GoogleRecaptchaBypass
-谷歌验证码绕过，参考自：`https://github.com/sarperavci/GoogleRecaptchaBypass`
 
 使用步骤
 ```
@@ -12,4 +11,7 @@ brew install ffmpeg
 - Ubuntu
 sudo apt update  
 sudo apt install ffmpeg
+
+3. 运行
+python3 test.py
 ```
